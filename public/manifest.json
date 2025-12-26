@@ -1,0 +1,21 @@
+{
+    "name": "Sadhna Space",
+    "short_name": "Sadhna",
+    "description": "Your sacred space for spiritual discipline and inner transformation",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#1a1a2e",
+    "theme_color": "#1a1a2e",
+    "icons": [
+        {
+            "src": "/favicon.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/favicon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "232890080570",
+    "project_id": "sadhanaspacehq",
+    "storage_bucket": "sadhanaspacehq.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232890080570:android:1a4a79134260ee96f8c403",
+        "android_client_info": {
+          "package_name": "com.shivam.sadhanaspace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232890080570-tajm91htp82fs7adplhv2pk091ca3jpl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjf4deXSjhBI8UwAgn0-1ccE99fV2eccI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232890080570-tajm91htp82fs7adplhv2pk091ca3jpl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
